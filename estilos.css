@@ -1,0 +1,248 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner{
+    background-color: #1335F0;
+}
+
+body{
+    background-color: #F5DBC4;
+}
+
+.logo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 700px 700px 750px 650px 750px 700px;
+    margin: 30px;
+}
+
+.xiaomi_12_pro{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+span{
+    text-decoration: line-through;
+}
+
+.xiaomi_redmi_note_11{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.xiaomi_poco_x3_pro{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.xiaomi_redmi_note_10_pro{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oppo_a54{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oppo_a53{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oppo_a16{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oppo_a52{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oneplus_6{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oneplus_nord_n10{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oneplus_5{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.oneplus_9_pro{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.honor_50_lite{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.honor_20_pro{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.honor_x8{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.honor_30_pro{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.iphone_12{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.iphone_13{
+    width: 300px;
+    color: black;
+    background-color: #A6DED4;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
